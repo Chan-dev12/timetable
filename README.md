@@ -9,7 +9,7 @@ Create a Django-admin Interface.
 
 ## STEP 2
 Create a static folder and inert HTML code.
-```
+
 ## STEP 3
 Create a simple table using '<table>' tag in html.
 
@@ -21,7 +21,7 @@ Add your timetable using <td> tag.
 
 ## STEP 6
 Execute the program using runserver command.
-
+```
 # PROGRAM
 ```
 <!DOCTYPE html>
