@@ -201,8 +201,9 @@ table,th,td{
 </html>
 ```
 # OUTPUT
+![Screenshot 2024-12-06 102241](https://github.com/user-attachments/assets/1fbdaac0-fda8-4199-9787-ae31f55b3e56)
 
-![Screenshot 2024-12-06 102241](https://github.com/user-attachments/assets/e0d49adb-ef90-4931-91a4-96cd589b88fc)
+
 
 
 
