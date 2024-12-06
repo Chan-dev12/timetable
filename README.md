@@ -202,9 +202,10 @@ table,th,td{
 ```
 # OUTPUT
 
+![Screenshot 2024-12-06 102241](https://github.com/user-attachments/assets/e0d49adb-ef90-4931-91a4-96cd589b88fc)
 
 
-![Screenshot 2024-12-02 143331](https://github.com/user-attachments/assets/03df31b2-cdab-481d-9685-b73270fda4b7)
+
 
 
 # RESULT
