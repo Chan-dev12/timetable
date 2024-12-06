@@ -199,6 +199,23 @@ table,th,td{
 </center>
 </body>
 </html>
+
+views.py
+rom django.shortcuts import render
+def table(request):
+    return render(request,'time_table.html')
+
+urls.py
+
+from django.contrib import admin
+from django.urls import path
+from timeapp import views
+
+urlpatterns = [
+    # path('admin/', admin.site.urls),
+    path('book/',views.table)
+]
+
 ```
 # OUTPUT
 ![Screenshot 2024-12-06 102241](https://github.com/user-attachments/assets/a2448a68-5425-4f91-983f-cd620449c3a0)
